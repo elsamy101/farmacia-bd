@@ -24,7 +24,8 @@ La parte más interesante es que podemos detectar medicamentos que vencen pronto
 
 Aquí está la estructura de las tablas y sus relaciones:
 
-[Inserta captura de Supabase aquí]
+<img width="1561" height="831" alt="image" src="https://github.com/user-attachments/assets/3f7109d6-48af-44c4-9238-212ec8fd6468" />
+
 
 ---
 
@@ -43,3 +44,45 @@ Aquí está la estructura de las tablas y sus relaciones:
 ---
 
 ## **📁 Estructura del Repositorio**
+
+farmacia-bd/
+│
+├── README.md
+│
+├── 01_creacion_tablas/
+│   ├── laboratorios.sql
+│   ├── medicamentos.sql
+│   ├── lotes.sql
+│   ├── recetas_medicas.sql
+│   ├── detalles_receta.sql
+│   ├── ventas.sql
+│   └── detalles_venta.sql
+│
+├── 02_inserciones/
+│   ├── insert_laboratorios.sql
+│   ├── insert_medicamentos.sql
+│   ├── insert_lotes.sql
+│   ├── insert_recetas_medicas.sql
+│   ├── insert_detalles_receta.sql
+│   ├── insert_ventas.sql
+│   └── insert_detalles_venta.sql
+│
+├── 03_consultas_basicas/
+│   ├── listar_laboratorios.sql
+│   ├── listar_medicamentos.sql
+│   ├── buscar_medicamento_por_nombre.sql
+│   └── contar_medicamentos_por_laboratorio.sql
+│
+├── 04_consultas_joins/
+│   ├── medicamentos_y_laboratorios.sql
+│   ├── lotes_con_medicamentos.sql
+│   ├── ventas_con_detalles.sql
+│   └── recetas_con_medicamentos.sql
+│
+└── 05_consultas_avanzadas/
+    ├── medicamentos_por_vencer.sql
+    ├── medicamentos_vencidos.sql
+    ├── ventas_por_laboratorio.sql
+    └── cantidad_medicamentos_vendidos.sql
+
+
