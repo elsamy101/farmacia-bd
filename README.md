@@ -45,6 +45,7 @@ Aquí está la estructura de las tablas y sus relaciones:
 
 ## **📁 Estructura del Repositorio**
 
+```
 farmacia-bd/
 │
 ├── README.md
@@ -84,5 +85,6 @@ farmacia-bd/
     ├── medicamentos_vencidos.sql
     ├── ventas_por_laboratorio.sql
     └── cantidad_medicamentos_vendidos.sql
+```
 
 
