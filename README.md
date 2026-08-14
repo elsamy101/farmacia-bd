@@ -4,7 +4,7 @@ Un proyecto de base de datos para gestionar una farmacia. Creamos las tablas, in
 
 ---
 
-## **📋 ¿Qué es esto?**
+## **📋 ¿Qué es?**
 
 Básicamente es una BD de farmacia con:
 
