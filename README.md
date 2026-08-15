@@ -34,9 +34,9 @@ Aquí está la estructura de las tablas y sus relaciones:
 | Integrante | Tarea | Descripción |
 |-----------|-------|------------|
 | **42 Samuel Rivas** | 🎯 Coordinador | README + Diagrama ER |
-| **02 Alisson Vasquez** | 📊 Tablas | Crear 7 archivos SQL con CREATE TABLE |
-| **25 Salomon** | 📝 Inserciones | Datos de prueba en todas las tablas |
-| **01 Alia Anai** | 🔍 Consultas Básicas | SELECT, búsquedas, conteos |
+| **02 Alisson Vásquez** | 📊 Tablas | Crear 7 archivos SQL con CREATE TABLE |
+| **25 Eduardo Salomón** | 📝 Inserciones | Datos de prueba en todas las tablas |
+| **01 Alia Anaí** | 🔍 Consultas Básicas | SELECT, búsquedas, conteos |
 | **26 Gabriel Pérez** | 🔗 JOINs | Cruzar información entre tablas |
 | **13 Keidy Martínez** | 🚀 Avanzadas | Vencimientos, subconsultas, GROUP BY |
 | **30  Jairo Sahir** | 📁 Documentación | Revisar y organizar el repo |
