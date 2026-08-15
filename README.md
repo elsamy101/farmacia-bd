@@ -39,7 +39,7 @@ Aquí está la estructura de las tablas y sus relaciones:
 | **01 Alia Anaí** | 🔍 Consultas Básicas | SELECT, búsquedas, conteos |
 | **26 Gabriel Pérez** | 🔗 JOINs | Cruzar información entre tablas |
 | **13 Keidy Martínez** | 🚀 Avanzadas | Vencimientos, subconsultas, GROUP BY |
-| **30  Jairo Sahir** | 📁 Documentación | Revisar y organizar el repo |
+| **30 Jairo Sahir** | 📁 Documentación | Revisar y organizar el repo |
 
 ---
 
