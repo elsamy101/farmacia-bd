@@ -37,7 +37,7 @@ Aquí está la estructura de las tablas y sus relaciones:
 | **02 Alisson Vasquez** | 📊 Tablas | Crear 7 archivos SQL con CREATE TABLE |
 | **25 Salomon** | 📝 Inserciones | Datos de prueba en todas las tablas |
 | **01 Alia Anai** | 🔍 Consultas Básicas | SELECT, búsquedas, conteos |
-| **26 Gabriel Pérez ** | 🔗 JOINs | Cruzar información entre tablas |
+| **26 Gabriel Pérez** | 🔗 JOINs | Cruzar información entre tablas |
 | **13 Keidy Martínez** | 🚀 Avanzadas | Vencimientos, subconsultas, GROUP BY |
 | **30  Jairo Sahir** | 📁 Documentación | Revisar y organizar el repo |
 
