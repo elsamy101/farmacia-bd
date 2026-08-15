@@ -33,13 +33,13 @@ Aquí está la estructura de las tablas y sus relaciones:
 
 | Integrante | Tarea | Descripción |
 |-----------|-------|------------|
-| **Samuel** | 🎯 Coordinador | README + Diagrama ER |
-| **Alisson** | 📊 Tablas | Crear 7 archivos SQL con CREATE TABLE |
-| **Salomon** | 📝 Inserciones | Datos de prueba en todas las tablas |
-| **Alia** | 🔍 Consultas Básicas | SELECT, búsquedas, conteos |
-| **Gabriel** | 🔗 JOINs | Cruzar información entre tablas |
-| **Keidy** | 🚀 Avanzadas | Vencimientos, subconsultas, GROUP BY |
-| **Jairo** | 📁 Documentación | Revisar y organizar el repo |
+| **42 Samuel Rivas** | 🎯 Coordinador | README + Diagrama ER |
+| **02 Alisson Vasquez** | 📊 Tablas | Crear 7 archivos SQL con CREATE TABLE |
+| **25 Salomon** | 📝 Inserciones | Datos de prueba en todas las tablas |
+| **01 Alia Anai** | 🔍 Consultas Básicas | SELECT, búsquedas, conteos |
+| **26 Gabriel Pérez ** | 🔗 JOINs | Cruzar información entre tablas |
+| **13 Keidy Martínez** | 🚀 Avanzadas | Vencimientos, subconsultas, GROUP BY |
+| **30  Jairo Sahir** | 📁 Documentación | Revisar y organizar el repo |
 
 ---
 
