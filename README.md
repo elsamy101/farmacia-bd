@@ -4,9 +4,9 @@ Un proyecto de base de datos para gestionar una farmacia. Creamos las tablas, in
 
 ---
 
-## **📋 ¿Qué es?**
+## **📋 ¿Qué hicimos?**
 
-Básicamente es una BD de farmacia con:
+Creamos una BD de farmacia con:
 
 - **Laboratorios** — Fabricantes de medicamentos
 - **Medicamentos** — Los fármacos disponibles
