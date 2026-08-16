@@ -25,6 +25,7 @@ La parte más interesante es que podemos detectar medicamentos que vencen pronto
 Aquí está la estructura de las tablas y sus relaciones:
 
 <img width="1561" height="831" alt="image" src="https://github.com/user-attachments/assets/3f7109d6-48af-44c4-9238-212ec8fd6468" />
+https://supabase.com/dashboard/project/gcdpazgydyzpisbekgdv/database/schemas
 
 
 ---
