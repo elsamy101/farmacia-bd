@@ -1,1 +1,3 @@
 CREATE TABLE detalles_recetas (id_detalle SERIAL PRIMARY KEY, id_receta INT NOT NULL, id_medicamento INT NOT NULL, cantidad INT, dosis VARCHAR(200), FOREIGN KEY (id_receta) REFERENCES recetas_medicas(id_receta), FOREIGN KEY (id_medicamento) REFERENCES medicamentos(id_medicamento));
+SELECT * FROM detalles_recetas
+ORDER BY id_medicamento ASC;
