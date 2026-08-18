@@ -1,0 +1,12 @@
+INSERT INTO productos (id, nombre, descripcion, precio, cantidad, fecha_vencimiento)
+VALUES
+(1, 'Paracetamol', 'Analgésico y antipirético', 25.00, 50, '2027-05-15'),
+(2, 'Ibuprofeno', 'Analgésico y antiinflamatorio', 35.00, 40, '2027-08-20'),
+(3, 'Amoxicilina', 'Antibiótico', 60.00, 30, '2027-03-10'),
+(4, 'Loratadina', 'Antihistamínico para alergias', 45.00, 25, '2027-11-05'),
+(5, 'Omeprazol', 'Medicamento para la acidez', 50.00, 35, '2028-01-12'),
+(6, 'Diclofenaco', 'Antiinflamatorio y analgésico', 40.00, 20, '2027-09-18'),
+(7, 'Vitamina C', 'Suplemento vitamínico', 30.00, 60, '2028-02-25'),
+(8, 'Alcohol 70%', 'Antiséptico', 28.00, 45, '2029-06-30'),
+(9, 'Gasa estéril', 'Material para curaciones', 15.00, 100, '2029-12-15'),
+(10, 'Jarabe para la tos', 'Alivio de la tos', 55.00, 25, '2027-07-22');
