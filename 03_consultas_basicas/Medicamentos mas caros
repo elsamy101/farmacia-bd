@@ -1,0 +1,8 @@
+-- Ver los medicamentos ordenados por precio (más caros primero)
+SELECT 
+    id_medicamento,
+    nombre,
+    precio_unitario
+FROM medicamentos
+ORDER BY precio_unitario DESC
+LIMIT 10;
