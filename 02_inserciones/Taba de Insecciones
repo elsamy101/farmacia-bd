@@ -1,0 +1,8 @@
+CREATE TABLE productos (
+    id INT PRIMARY KEY,
+    nombre VARCHAR(100),
+    descripcion VARCHAR(200),
+    precio DECIMAL(10,2),
+    cantidad INT,
+    fecha_vencimiento DATE
+);
