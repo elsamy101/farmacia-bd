@@ -1,0 +1,10 @@
+-- Laboratorios que no tienen medicamentos registrados
+
+SELECT 
+    l.id_laboratorio,
+    l.nombre,
+    l.telefono,
+    l.email
+FROM laboratorios l
+LEFT JOIN medicamentos m ON l.id_laboratorio = m.id_laboratorio
+WHERE m.id_medicamento IS NULL;
