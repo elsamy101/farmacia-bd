@@ -1,0 +1,10 @@
+-- Buscar un medicamento específico (cambiar 'Ibuprofeno' por el que busques)
+
+SELECT 
+    id_medicamento,
+    nombre,
+    descripcion,
+    precio_unitario
+FROM medicamentos
+WHERE nombre ILIKE '%Ibuprofeno%'
+ORDER BY nombre;
