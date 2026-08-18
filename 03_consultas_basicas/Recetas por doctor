@@ -1,0 +1,8 @@
+-- Cuántas recetas hizo cada doctor
+
+SELECT 
+    medico,
+    COUNT(*) AS total_recetas
+FROM recetas_medicas
+GROUP BY medico
+ORDER BY total_recetas DESC;
