@@ -1,0 +1,7 @@
+-- Cuánto dinero se vendió en total
+
+SELECT 
+    SUM(total) AS total_vendido,
+    COUNT(*) AS numero_ventas,
+    ROUND(AVG(total)::NUMERIC, 2) AS promedio_venta
+FROM ventas;
