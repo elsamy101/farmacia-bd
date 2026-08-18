@@ -1,0 +1,7 @@
+-- Cuántos lotes existen para cada medicamento
+SELECT 
+    id_medicamento,
+    COUNT(*) AS total_lotes
+FROM lotes
+GROUP BY id_medicamento
+ORDER BY total_lotes DESC;
