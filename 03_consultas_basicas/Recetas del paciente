@@ -1,0 +1,8 @@
+-- Cuántas recetas tiene cada paciente
+
+SELECT 
+    paciente,
+    COUNT(*) AS total_recetas
+FROM recetas_medicas
+GROUP BY paciente
+ORDER BY total_recetas DESC;
