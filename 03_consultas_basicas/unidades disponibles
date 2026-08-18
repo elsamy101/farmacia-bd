@@ -1,0 +1,8 @@
+-- Cuántas unidades hay disponibles de cada medicamento
+
+SELECT 
+    id_medicamento,
+    SUM(cantidad_disponible) AS total_stock
+FROM lotes
+GROUP BY id_medicamento
+ORDER BY total_stock DESC;
