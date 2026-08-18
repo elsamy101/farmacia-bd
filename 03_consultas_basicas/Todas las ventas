@@ -1,0 +1,8 @@
+-- Ver todas las ventas con su fecha y total
+SELECT 
+    id_venta,
+    fecha_venta,
+    id_receta,
+    total
+FROM ventas
+ORDER BY fecha_venta DESC;
