@@ -1,0 +1,2 @@
+INSERT INTO medicamentos  (nombre, descripcion, precio, stock, fecha_vencimiento)
+VALUES ('Paracetamol', 'Analgésico y antipirético', 25.00, 100, '2027-05-15'),('Ibuprofeno', 'Antiinflamatorio y analgésico', 35.00, 80, '2027-08-20'),('Amoxicilina', 'Antibiótico', 60.00, 50, '2027-03-10'),('Loratadina', 'Medicamento para alergias', 45.00, 70, '2027-11-05'),(Omeprazol', 'Medicamento para la acidez', 50.00, 60, '2028-01-12');
