@@ -1,0 +1,8 @@
+-- Ver todos los medicamentos con su precio
+SELECT 
+    id_medicamento,
+    nombre,
+    descripcion,
+    precio_unitario
+FROM medicamentos
+ORDER BY nombre;
