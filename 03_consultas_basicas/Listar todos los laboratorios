@@ -1,0 +1,8 @@
+-- Ver nombre, teléfono y email de cada laboratorio
+SELECT 
+    id_laboratorio,
+    nombre,
+    telefono,
+    email
+FROM laboratorios
+ORDER BY nombre;
