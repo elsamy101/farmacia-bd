@@ -1,1 +1,3 @@
 CREATE TABLE lotes (id_lote SERIAL PRIMARY KEY, numero_lote VARCHAR(50) NOT NULL UNIQUE, id_medicamento INT NOT NULL, fecha_fabricacion DATE, fecha_vencimiento DATE NOT NULL, cantidad_disponible INT, FOREIGN KEY (id_medicamento) REFERENCES medicamentos(id_medicamento));
+SELECT * FROM lotes
+ORDER BY id_lote ASC;
