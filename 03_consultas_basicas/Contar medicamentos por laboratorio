@@ -1,0 +1,8 @@
+-- Cuántos medicamentos tiene cada laboratorio
+
+SELECT 
+    id_laboratorio,
+    COUNT(*) AS total_medicamentos
+FROM medicamentos
+GROUP BY id_laboratorio
+ORDER BY total_medicamentos DESC;
