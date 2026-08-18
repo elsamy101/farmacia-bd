@@ -1,0 +1,7 @@
+insert_laboratorios.sql
+insert_medicamentos.sql
+insert_lotes.sql
+insert_recetas_medicas.sql
+insert_detalles_receta.sql
+insert_ventas.sql
+insert_detalles_venta.sql
